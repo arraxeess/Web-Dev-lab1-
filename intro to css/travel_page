@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            #p{background-color: rgb(300,300,200);}
+            #h{background-color: rgb(300,300,00);}
+            .b{color: rgb(0,0,255);}
+            .a{color: rgb(0,255,255);}
+        </style>
+    </head>
+    <body>
+    
+        <h1 id="h">Travel to Iraq</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Iraq%2C_administrative_divisions_-_Nmbrs_-_colored.svg/1024px-Iraq%2C_administrative_divisions_-_Nmbrs_-_colored.svg.png" alt="Iraq" width="200" height="200">
+        <p>
+        <strong>Bordered with countries: <br></strong>
+        <ul>
+            <li class="a">c1</li>
+            <li class="b">c2</li>
+            <li class="a">c3</li>
+            <li>c4</li>
+        </ul>
+        <em><h1 id="p">Administrative states: <br></h1></em>
+        <ol>
+        <li class="a">a1</li>
+        <li class="b">a2</li>
+            <li class="a">a3</li>
+            <li class="b">a4</li>
+        </ol>
+        </p>
+        
+    </body>
+</html>
