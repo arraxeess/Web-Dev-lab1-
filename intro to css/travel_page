@@ -13,6 +13,8 @@
     <body>
     
         <h1 id="h">Travel to Iraq</h1>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzmMLsrg6qOC42I1w_6oPkjzA8xdC03Jag1LhUxNf5QPTsbjaz1yuHWQN21LJ2kRECmg&usqp=CAU" alt=" This is Iraq" width="200" height="200">
+        
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Iraq%2C_administrative_divisions_-_Nmbrs_-_colored.svg/1024px-Iraq%2C_administrative_divisions_-_Nmbrs_-_colored.svg.png" alt="Iraq" width="200" height="200">
         <p>
         <strong>Bordered with countries: <br></strong>
@@ -22,14 +24,20 @@
             <li class="a">c3</li>
             <li>c4</li>
         </ul>
+            
+        
         <em><h1 id="p">Administrative states: <br></h1></em>
         <ol>
         <li class="a">a1</li>
         <li class="b">a2</li>
             <li class="a">a3</li>
             <li class="b">a4</li>
-        </ol>
+        </ol></p>
+    <h2>
+        <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/800px-Flag_of_Iraq.svg.png" alt="Iraq flag" width="200" height="200">
+            
         </p>
-        
+    </h2>
     </body>
 </html>
