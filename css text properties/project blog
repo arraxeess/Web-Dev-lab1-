@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+          p{background-color: rgb(500,10,25);
+            color:(255,255,255);
+            font-size: 15px;
+            font-style: italic;
+          }
+          h2{color: rgb(200,200,200);
+              font-weight: bold;
+              font-family: cursive;
+          }
+          #bc{ background-color:(255,100,200);
+              font-style: cursive;
+          }
+        </style>
+    </head>
+    <body>
+        
+        <h1>Arailym's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li class="pl"><a href="#fp" >First post!</a></li>
+            <li class="pl"> <a href="#sp" >Proggramming languages</a></li>
+        </ul>
+        
+        <h2 id="fp">First post</h2>
+        <h6 id="bc">Posted on 21.01.2022</h6>
+        
+        <p>Something excited happened.</p>
+        <h2 id="sp">Second post-about programming langs</h2>
+        <h6 id="bc">Posted on  29.01.2023</h6>
+        
+        <p>I learned many programming languages</p>
+        
+        
+    </body>
+</html>
