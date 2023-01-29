@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+          .a{ 
+          float: right;
+          top: 50px;
+          background-color: rgb(201,238,245);
+          padding: 10px;
+          border: 5px solid rgb(167,219,245);
+          }
+          .det{font-weight: bold;
+          		font-size:24px;
+          margin-bottom:10px;
+          }
+          #inv{
+          font-style: italic;
+          font-weight: bold;
+          color: rgb(167,219,245);
+          border:black;}
+          #inv2{background-color:rgb(167,219,245);
+          font-family:sans-serif;}
+        </style>
+    </head>
+    <body>
+      
+        
+        <h1 id="inv">You're invited!</h1>
+        <h2 id="inv2">To Concert behalf ABC ABC!</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/188px-Flag_of_Iraq.svg.png" alt="photo of flowers" width="180" height="150">
+        <div class="a">
+         <p class="det">The details:</p>
+        <ul>
+           <li>Row: 8</li>
+          <li>Seat: 18</li>
+          <li>Address: Ritz Carlton Almaty</li>
+          <li>Price: 34000 kzt</li>
+          </ul></div>
+        
+    </body>
+</html>
