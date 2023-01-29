@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        tbody{color: rgb(255,255,255);}
+        h1{background-color:rgb(100,200,200);}
+        h2{background-color:rgb(100,200,200);
+        }
+        h3{background-color:rgb(100,200,200);}
+        p{color:rgb(255,255,0);
+            background-color:rgb(100,200,200);
+        }
+        #ts{background-color:rgb(255,0,0);}
+        table{background-color: rgb(100,200,300);}
+        .k{color:rgb(10,10,100);}
+        .f{color: rgb(125,64,337);}
+        </style>
+    </head>
+    <body>
+       
+        <h1>____'s Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li class="f"><a href="#1">Recipe #1</a></li>
+            <li class="k"><a href="#2">Recipe #2</a></li>
+            <li class="f"><a href="#3">Recipe #3</a></li>
+            <li class="k"><a href="#4">Recipe #4</a></li>
+        </ol>
+        
+        <h2>Recipe #1</h2>
+        
+        <ul id="ts">
+            <li class="f">Time: 35 minutes</li>
+            <li class="k">Serves: 2-3 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <td>chicken breasts<br>Olive oil<br>Garlic</td>
+            <td>2 pieces<br>3 tablespoons<br> 2 heads</td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Reaad source..
+</p>
+<p><strong>Step 2:</strong> Do as written.
+</p>
+        
+    <p><em>Source: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetherlands&psig=AOvVaw3dsEgAvI0gfoRaPqqyDlIs&ust=1675066317339000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCNju0PWs7PwCFQAAAAAdAAAAABAD">Some recipes websites</a></em></p>
+    <h2 id="2">Recipe #2</h2>
+        
+        <ul  id="ts">
+            <li class="f">Time: 20 minutes</li>
+            <li class="k">Serves: 5-6 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <td>Olive oil<br> Salt<br> fresh lemon juice</td>
+            <td>2-3 tablespoons <br>
+                2 tablespoons<br>
+                half a lemon
+            </td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Boil the potatoes. Just a quick boil—about six minutes—in salted water and then let them cool completely before you do anything else.
+</p>
+<p><strong>Step 2:</strong> Whisk together the Greek marinade.
+</p>
+        
+    <p><em>Source: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAmsterdam&psig=AOvVaw3dsEgAvI0gfoRaPqqyDlIs&ust=1675066317339000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCNju0PWs7PwCFQAAAAAdAAAAABAI">Some recipes websites</a></em></p>
+    <h2 id="3">Recipe #3</h2>
+        
+        <ul  id="ts">
+            <li class="f">Time: 40 minutes</li>
+            <li class="k">Serves: 10 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <td> Minced garlic<br> spinach<br>cream cheese</td>
+            <td>2 heads <br> 5-6 leaves<br> 200 gramms</td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>Start with 4 good-sized chicken breasts. They don’t have to be gigantic, but you don’t want to use chicken breasts that are too small to stuff.
+</p>
+<p><strong>Step 2:</strong>Use a sharp knife to create a “pocket” on the inside of the breast. Make sure you leave one whole side (and even the ends) intact so your fillings stay inside.</p>
+        
+    <p><em>Source: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAlbania&psig=AOvVaw3dsEgAvI0gfoRaPqqyDlIs&ust=1675066317339000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCNju0PWs7PwCFQAAAAAdAAAAABAQ">Some recipes websites</a></em></p>
+    <h2 id="4">Recipe #4</h2>
+        
+        <ul  id="ts">
+            <li class="f">Time:1 hour</li>
+            <li class="k">Serves: 7-8 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <td>jasmine rice <br> broccoli <br>eggs</td>
+            <td>
+            200 gramms <br> 12-13 pieces <br> 3 pieces</td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Cook the rice ahead of time.
+</p>
+<p><strong> Step 2:</strong>Have at least 3 mixing bowls on-hand when you begin. </p>
+        
+    <p><em>Source: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBerlin&psig=AOvVaw3dsEgAvI0gfoRaPqqyDlIs&ust=1675066317339000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCNju0PWs7PwCFQAAAAAdAAAAABAY">Some recipes websites</a></em></p>
+   
+    
+    </body>
+</html>
